@@ -1,4 +1,5 @@
-python3.11
+pip
+python==3.11
 yfinance
 pandas
 numpy
@@ -8,6 +9,5 @@ streamlit
 plotly
 torch
 flask==3.0.2
-requests
-libgl1-mesa-glx
+libgl1
 
