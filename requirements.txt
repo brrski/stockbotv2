@@ -9,3 +9,4 @@ torch
 flask==3.0.2
 requests
 libgl1-mesa-glx
+--upgrade pip
