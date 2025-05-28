@@ -8,5 +8,4 @@ plotly
 torch
 flask==3.0.2
 requests
-mesa-libGL
-
+libgl1-mesa-glx
