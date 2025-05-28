@@ -7,3 +7,4 @@ streamlit
 plotly
 torch
 flask==3.0.2
+requests
