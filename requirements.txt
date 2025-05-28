@@ -6,3 +6,4 @@ PyQt6
 streamlit
 plotly
 torch
+flask==3.0.2
